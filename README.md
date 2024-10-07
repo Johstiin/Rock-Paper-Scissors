@@ -2,7 +2,7 @@
 - Practicing with "CodingNepal" JavaScript Projects
 -  First time using the README and DOM.
 
-####Table
+#### Table
 List 1   | List 2
 ---------|------
 Rock     | R
